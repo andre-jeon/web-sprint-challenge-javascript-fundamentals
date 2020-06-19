@@ -26,7 +26,7 @@ myFunction();
 
 function summation() {
   let sum = 0;
-  return function adder(){
+  return function adder() {
     return 
   }
 }
